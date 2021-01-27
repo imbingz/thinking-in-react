@@ -3,8 +3,7 @@ Learn how to think in React following this post https://reactjs.org/docs/thinkin
 
 
 ### Start With A Mock
-[Mock UI](public/mock.png)
-
+<kbd>![mock-ui](./public/mock.png)</kbd>
 
 ### Steps 
 #### Step 1: Break The UI Into A Component Hierarchy
