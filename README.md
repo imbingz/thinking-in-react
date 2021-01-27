@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+### Objectives 
+Learn how to think in React following this post https://reactjs.org/docs/thinking-in-react.html but using React functional component. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+### Start With A Mock
+[Mock UI](public/mock.png)
+
+
+### Steps 
+#### Step 1: Break The UI Into A Component Hierarchy
+#### Step 2: Build A Static Version in React
+#### Step 3: Identify The Minimal (but complete) Representation Of UI State
+#### Step 4: Identify Where Your State Should Live
+#### Step 5: Add Inverse Data Flow
 
 ## Available Scripts
 
